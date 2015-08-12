@@ -1,6 +1,6 @@
 # AirConsole
 AirConsole iOS Bindings for Xamarin
 
-Wrapper for the iOS bindings for Air Console from 
+Xamarin C# wrapper for Objective C bindings for [Air Console](https://www.get-console.com/airconsole/).
 
-This is pretty much all just from [Bill Fulton](http://www.get-console.com/forum/viewtopic.php?f=12&t=1020&p=1583).  I just updated a few NSObjects and nuints.
+This is pretty much all created by [Bill Fulton](http://www.get-console.com/forum/viewtopic.php?f=12&t=1020&p=1583) on the Get-Console forum.  All I did was update a few NSObjects and nunints.
